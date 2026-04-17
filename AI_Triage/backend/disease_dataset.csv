@@ -1,0 +1,51 @@
+symptoms,disease,specialist,advice
+chest pain shortness of breath sweating,Heart Attack,Cardiologist,Immediate ECG required
+fever cough fatigue,Flu,General Physician,Take rest and hydration
+headache blurred vision dizziness,Hypertension,Neurologist,Check blood pressure
+stomach pain vomiting nausea,Food Poisoning,Gastroenterologist,Avoid outside food
+skin rash itching allergy,Allergy,Dermatologist,Take antihistamines
+joint pain stiffness swelling,Arthritis,Orthopedic,Do X-ray and physiotherapy
+weight loss thirst frequent urination,Diabetes,Endocrinologist,Check blood sugar
+cough chest tightness wheezing,Asthma,Pulmonologist,Use inhaler
+fever headache body pain,Dengue,General Physician,Platelet monitoring needed
+back pain numbness legs,Slip Disc,Orthopedic,Spine evaluation required
+chest pain palpitations dizziness,Heart Failure,Cardiologist,Echocardiogram and medication needed
+palpitations dizziness chest pain,Arrhythmia,Cardiologist,ECG and Holter monitoring required
+chest pain radiating to arm shortness of breath,Angina,Cardiologist,Stress test and angiography advised
+fever cough chest pain shortness of breath,Pneumonia,Pulmonologist,Chest X-ray and antibiotics needed
+cough mucus production wheezing chest discomfort,Bronchitis,Pulmonologist,Bronchodilators and rest recommended
+chronic cough shortness of breath wheezing,COPD,Pulmonologist,Pulmonary function test and inhalers
+cough fever night sweats weight loss,Tuberculosis,Pulmonologist,Sputum test and long-term antibiotics
+stomach pain nausea vomiting bloating,Gastritis,Gastroenterologist,Endoscopy and antacids recommended
+heartburn acid reflux chest pain,GERD,Gastroenterologist,Lifestyle changes and PPIs advised
+abdominal pain bloating diarrhea constipation,Irritable Bowel Syndrome,Gastroenterologist,Diet modification and stress management
+abdominal pain nausea fever loss of appetite,Appendicitis,Surgeon,Emergency surgery required
+severe headache nausea sensitivity to light,Migraine,Neurologist,MRI and preventive medication
+facial drooping arm weakness speech difficulty,Stroke,Neurologist,Immediate emergency care required
+seizures confusion temporary loss of awareness,Epilepsy,Neurologist,EEG and anticonvulsant medication
+numbness weakness vision problems fatigue,Multiple Sclerosis,Neurologist,MRI and immunomodulatory therapy
+joint pain stiffness swelling,Osteoarthritis,Orthopedic,X-ray and pain management
+joint pain swelling morning stiffness fatigue,Rheumatoid Arthritis,Rheumatologist,Blood tests and DMARDs required
+back pain loss of height bone fractures,Osteoporosis,Orthopedic,Bone density scan and calcium supplements
+hand numbness tingling weakness,Carpal Tunnel Syndrome,Orthopedic,Nerve conduction study and wrist splint
+fever chills sweating headache,Malaria,Infectious Disease Specialist,Blood smear test and antimalarials
+fever headache abdominal pain diarrhea,Typhoid,Infectious Disease Specialist,Blood culture and antibiotics
+fever cough loss of taste shortness of breath,COVID-19,General Physician,PCR test and isolation
+jaundice fatigue abdominal pain dark urine,Hepatitis,Gastroenterologist,Liver function tests and antiviral therapy
+fatigue weight gain depression cold intolerance,Hypothyroidism,Endocrinologist,Thyroid function test and hormone replacement
+weight loss anxiety rapid heartbeat heat intolerance,Hyperthyroidism,Endocrinologist,Thyroid scan and antithyroid medication
+itching redness dry skin rash,Eczema,Dermatologist,Topical steroids and moisturizers
+red patches silvery scales itching,Psoriasis,Dermatologist,Phototherapy and systemic treatment
+pimples blackheads whiteheads oily skin,Acne,Dermatologist,Topical retinoids and antibiotics
+sadness loss of interest fatigue sleep changes,Depression,Psychiatrist,Therapy and antidepressant medication
+excessive worry restlessness fatigue irritability,Anxiety Disorder,Psychiatrist,Cognitive behavioral therapy and medication
+frequent urination excessive thirst weight loss,Diabetes Type 1,Endocrinologist,Insulin therapy and glucose monitoring
+blurred vision frequent urination fatigue,Diabetes Type 2,Endocrinologist,Oral medications and diet control
+red eyes itching discharge,Conjunctivitis,Ophthalmologist,Antibiotic eye drops and hygiene
+ear pain fever hearing loss,Otitis Media,ENT Specialist,Antibiotics and pain relief
+sore throat fever swollen lymph nodes,Strep Throat,ENT Specialist,Antibiotics and throat culture
+abdominal pain diarrhea blood in stool,Ulcerative Colitis,Gastroenterologist,Colonoscopy and immunosuppressants
+abdominal pain diarrhea weight loss,Crohn's Disease,Gastroenterologist,Endoscopy and biological therapy
+chest pain fever cough,Pericarditis,Cardiologist,Echocardiogram and anti-inflammatories
+joint pain fever rash,Lyme Disease,Infectious Disease Specialist,Antibiotics and tick bite prevention
+headache stiff neck fever,Meningitis,Neurologist,Emergency lumbar puncture and antibiotics

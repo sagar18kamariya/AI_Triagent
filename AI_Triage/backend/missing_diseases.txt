@@ -1,0 +1,164 @@
+Missing Diseases Analysis
+==================================================
+Total missing: 30
+Current dataset: 10 diseases
+
+Cardiovascular (3 missing):
+  - Heart Failure
+    Symptoms: shortness of breath fatigue swelling legs
+    Specialist: Cardiologist
+    Advice: Echocardiogram and medication needed
+
+  - Arrhythmia
+    Symptoms: palpitations dizziness chest pain
+    Specialist: Cardiologist
+    Advice: ECG and Holter monitoring required
+
+  - Angina
+    Symptoms: chest pain radiating to arm shortness of breath
+    Specialist: Cardiologist
+    Advice: Stress test and angiography advised
+
+Respiratory (4 missing):
+  - Pneumonia
+    Symptoms: fever cough chest pain shortness of breath
+    Specialist: Pulmonologist
+    Advice: Chest X-ray and antibiotics needed
+
+  - Bronchitis
+    Symptoms: cough mucus production wheezing chest discomfort
+    Specialist: Pulmonologist
+    Advice: Bronchodilators and rest recommended
+
+  - COPD
+    Symptoms: chronic cough shortness of breath wheezing
+    Specialist: Pulmonologist
+    Advice: Pulmonary function test and inhalers
+
+  - Tuberculosis
+    Symptoms: cough fever night sweats weight loss
+    Specialist: Pulmonologist
+    Advice: Sputum test and long-term antibiotics
+
+Gastrointestinal (4 missing):
+  - Gastritis
+    Symptoms: stomach pain nausea vomiting bloating
+    Specialist: Gastroenterologist
+    Advice: Endoscopy and antacids recommended
+
+  - GERD
+    Symptoms: heartburn acid reflux chest pain
+    Specialist: Gastroenterologist
+    Advice: Lifestyle changes and PPIs advised
+
+  - Irritable Bowel Syndrome
+    Symptoms: abdominal pain bloating diarrhea constipation
+    Specialist: Gastroenterologist
+    Advice: Diet modification and stress management
+
+  - Appendicitis
+    Symptoms: abdominal pain nausea fever loss of appetite
+    Specialist: Surgeon
+    Advice: Emergency surgery required
+
+Neurological (4 missing):
+  - Migraine
+    Symptoms: severe headache nausea sensitivity to light
+    Specialist: Neurologist
+    Advice: MRI and preventive medication
+
+  - Stroke
+    Symptoms: facial drooping arm weakness speech difficulty
+    Specialist: Neurologist
+    Advice: Immediate emergency care required
+
+  - Epilepsy
+    Symptoms: seizures confusion temporary loss of awareness
+    Specialist: Neurologist
+    Advice: EEG and anticonvulsant medication
+
+  - Multiple Sclerosis
+    Symptoms: numbness weakness vision problems fatigue
+    Specialist: Neurologist
+    Advice: MRI and immunomodulatory therapy
+
+Musculoskeletal (4 missing):
+  - Osteoarthritis
+    Symptoms: joint pain stiffness swelling
+    Specialist: Orthopedic
+    Advice: X-ray and pain management
+
+  - Rheumatoid Arthritis
+    Symptoms: joint pain swelling morning stiffness fatigue
+    Specialist: Rheumatologist
+    Advice: Blood tests and DMARDs required
+
+  - Osteoporosis
+    Symptoms: back pain loss of height bone fractures
+    Specialist: Orthopedic
+    Advice: Bone density scan and calcium supplements
+
+  - Carpal Tunnel Syndrome
+    Symptoms: hand numbness tingling weakness
+    Specialist: Orthopedic
+    Advice: Nerve conduction study and wrist splint
+
+Infectious Diseases (4 missing):
+  - Malaria
+    Symptoms: fever chills sweating headache
+    Specialist: Infectious Disease Specialist
+    Advice: Blood smear test and antimalarials
+
+  - Typhoid
+    Symptoms: fever headache abdominal pain diarrhea
+    Specialist: Infectious Disease Specialist
+    Advice: Blood culture and antibiotics
+
+  - COVID-19
+    Symptoms: fever cough loss of taste shortness of breath
+    Specialist: General Physician
+    Advice: PCR test and isolation
+
+  - Hepatitis
+    Symptoms: jaundice fatigue abdominal pain dark urine
+    Specialist: Gastroenterologist
+    Advice: Liver function tests and antiviral therapy
+
+Endocrine (2 missing):
+  - Hypothyroidism
+    Symptoms: fatigue weight gain depression cold intolerance
+    Specialist: Endocrinologist
+    Advice: Thyroid function test and hormone replacement
+
+  - Hyperthyroidism
+    Symptoms: weight loss anxiety rapid heartbeat heat intolerance
+    Specialist: Endocrinologist
+    Advice: Thyroid scan and antithyroid medication
+
+Dermatological (3 missing):
+  - Eczema
+    Symptoms: itching redness dry skin rash
+    Specialist: Dermatologist
+    Advice: Topical steroids and moisturizers
+
+  - Psoriasis
+    Symptoms: red patches silvery scales itching
+    Specialist: Dermatologist
+    Advice: Phototherapy and systemic treatment
+
+  - Acne
+    Symptoms: pimples blackheads whiteheads oily skin
+    Specialist: Dermatologist
+    Advice: Topical retinoids and antibiotics
+
+Psychological (2 missing):
+  - Depression
+    Symptoms: sadness loss of interest fatigue sleep changes
+    Specialist: Psychiatrist
+    Advice: Therapy and antidepressant medication
+
+  - Anxiety Disorder
+    Symptoms: excessive worry restlessness fatigue irritability
+    Specialist: Psychiatrist
+    Advice: Cognitive behavioral therapy and medication
+

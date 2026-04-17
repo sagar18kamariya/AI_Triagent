@@ -1,0 +1,122 @@
+Missing Symptoms Analysis
+==================================================
+Total missing: 98
+
+Fever & Temperature:
+  - chills
+  - sweating
+  - night sweats
+
+Respiratory:
+  - wheezing
+  - sputum
+  - hemoptysis
+  - nasal congestion
+  - sinus pain
+  - postnasal drip
+
+Cardiovascular:
+  - palpitations
+  - irregular heartbeat
+  - slow pulse
+  - heart murmur
+  - edema
+  - swollen ankles
+  - leg swelling
+  - hypertension
+  - hypotension
+
+Gastrointestinal:
+  - abdominal pain
+  - nausea
+  - constipation
+  - bloating
+  - heartburn
+  - acid reflux
+  - indigestion
+  - loss of appetite
+  - weight loss
+  - weight gain
+  - blood in stool
+  - black stool
+  - jaundice
+  - yellow eyes
+
+Neurological:
+  - dizziness
+  - vertigo
+  - lightheadedness
+  - tremor
+  - numbness
+  - tingling
+  - weakness
+  - paralysis
+  - memory loss
+  - confusion
+  - difficulty speaking
+  - vision problems
+  - blurred vision
+  - double vision
+  - hearing loss
+  - tinnitus
+
+Musculoskeletal:
+  - muscle weakness
+  - stiffness
+  - swelling
+  - redness
+  - limited mobility
+  - fracture
+  - sprain
+
+Dermatological:
+  - hives
+  - redness
+  - swelling
+  - blisters
+  - ulcers
+  - sores
+  - dry skin
+  - oily skin
+  - hair loss
+  - nail changes
+  - skin discoloration
+
+Genitourinary:
+  - painful urination
+  - urgency
+  - blood in urine
+  - cloudy urine
+  - kidney pain
+  - flank pain
+  - testicular pain
+  - penile discharge
+  - vaginal discharge
+  - pelvic pain
+  - menstrual cramps
+  - heavy bleeding
+  - missed period
+
+Psychological:
+  - depression
+  - insomnia
+  - fatigue
+  - lethargy
+  - mood swings
+  - irritability
+  - lack of concentration
+  - suicidal thoughts
+
+General:
+  - fatigue
+  - weakness
+  - malaise
+  - loss of energy
+  - dehydration
+  - thirst
+  - excessive hunger
+  - excessive thirst
+  - frequent infections
+  - slow healing
+  - bruising easily
+

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+.pytest_cache/
+
+# ML models
+*.pkl
+
+# Node
+node_modules/
+dist/
+build/
+.output/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

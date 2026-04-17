@@ -1,0 +1,12 @@
+
+Flask
+flask-cors
+flask-mysqldb
+pandas
+joblib
+scikit-learn
+mysql-connector-python
+opencv-python
+scipy
+deepface
+tf-keras

@@ -1,0 +1,15 @@
+symptoms,emotion,heart_rate,disease,specialist,advice
+fever cough fatigue,neutral,80,Flu,General Physician,Rest and hydration
+fever cough fatigue,anxious,95,Severe Flu,General Physician,Immediate checkup
+chest pain shortness of breath,anxious,110,Heart Attack,Cardiologist,Emergency care required
+chest pain shortness of breath,neutral,85,Angina,Cardiologist,ECG recommended
+headache dizziness blurred vision,stressed,100,Hypertension,Neurologist,Monitor BP
+headache dizziness,neutral,78,Migraine,Neurologist,Take rest and medication
+stomach pain nausea,neutral,75,Gastritis,Gastroenterologist,Antacids advised
+stomach pain nausea,stressed,90,Ulcer,Gastroenterologist,Endoscopy required
+cough wheezing shortness of breath,anxious,105,Asthma,Pulmonologist,Use inhaler
+cough wheezing,neutral,82,Bronchitis,Pulmonologist,Rest and bronchodilator
+fatigue weakness weight loss,stressed,95,Diabetes,Endocrinologist,Check sugar levels
+fatigue weakness,neutral,78,Anemia,General Physician,Iron supplements
+skin rash itching,neutral,72,Allergy,Dermatologist,Antihistamines
+skin rash itching,stressed,88,Eczema,Dermatologist,Skin care treatment

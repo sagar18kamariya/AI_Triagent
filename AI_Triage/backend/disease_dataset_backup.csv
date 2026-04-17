@@ -1,0 +1,11 @@
+symptoms,disease,specialist,advice
+chest pain shortness of breath sweating,Heart Attack,Cardiologist,Immediate ECG required
+fever cough fatigue,Flu,General Physician,Take rest and hydration
+headache blurred vision dizziness,Hypertension,Neurologist,Check blood pressure
+stomach pain vomiting nausea,Food Poisoning,Gastroenterologist,Avoid outside food
+skin rash itching allergy,Allergy,Dermatologist,Take antihistamines
+joint pain stiffness swelling,Arthritis,Orthopedic,Do X-ray and physiotherapy
+weight loss thirst frequent urination,Diabetes,Endocrinologist,Check blood sugar
+cough chest tightness wheezing,Asthma,Pulmonologist,Use inhaler
+fever headache body pain,Dengue,General Physician,Platelet monitoring needed
+back pain numbness legs,Slip Disc,Orthopedic,Spine evaluation required
